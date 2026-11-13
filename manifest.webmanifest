@@ -1,10 +1,10 @@
 {
-  "name": "Classroom",
-  "short_name": "Classroom",
+  "name": "Füße",
+  "short_name": "Füße",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#F87505",
-  "theme_color": "#F87505",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
   "icons": [
     {
       "src": "favicon-BVSVfY-O.png",
